@@ -32,4 +32,5 @@ User account was created successfully and administrative privileges were assigne
 
 ## Screenshot
 
-![User Creation](User-Creation-01.png)
+<img width="1919" height="847" alt="User-Creation-01 png" src="https://github.com/user-attachments/assets/7fc0750e-7d4f-47c4-847a-a80d16343b1c" />
+
